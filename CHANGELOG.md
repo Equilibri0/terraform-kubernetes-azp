@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/Equilibri0/terraform-kubernetes-azp/compare/v1.2.0...v1.3.0) (2019-11-28)
+
+
+### Features
+
+* revert changes by deleting the gitignore ([7fa1aa3](https://github.com/Equilibri0/terraform-kubernetes-azp/commit/7fa1aa355dfa186ffbd8a699c6d99bd1704c4170))
+
 # [1.2.0](https://github.com/Equilibri0/terraform-kubernetes-azp/compare/v1.1.0...v1.2.0) (2019-11-28)
 
 
