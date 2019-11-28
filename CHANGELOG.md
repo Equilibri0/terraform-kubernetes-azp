@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.2.0](https://github.com/Equilibri0/terraform-kubernetes-azp/compare/v1.1.0...v1.2.0) (2019-11-28)
+
+
+### Features
+
+* cleanup for files which are not needed to be in the repository ([5c18665](https://github.com/Equilibri0/terraform-kubernetes-azp/commit/5c1866505b6ddf50b5ea5b0d73178ba0dc3dcc2f))
+
 # [1.1.0](https://github.com/Equilibri0/terraform-kubernetes-azp/compare/v1.0.0...v1.1.0) (2019-11-28)
 
 
