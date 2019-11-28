@@ -23,7 +23,7 @@ module "azp-agent" {
     azp_url                            = "https://dev.azure.com/YOUR_ORGANIZATION"
     azp_pool                           = "Default"
     k8s_secret_key_name                = "azp-sec"
-
+}
 
 ```
 
